@@ -1,5 +1,3 @@
-# replace-img-url-loader
-Replace the image path in HTML to the specified path
 ### Use Demo
 ``` 将源码下载到自己的项目目录下，比如下载到loader文件夹，修改webpack.config查找loader路径
 resolveLoader: {
