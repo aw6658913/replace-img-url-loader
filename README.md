@@ -1,7 +1,7 @@
 ##该loader插件会将项目中html文件的图片地址替换成指定目录
 
 Use Demo
-``` 将源码下载到自己的项目目录下，比如下载到loader文件夹，修改webpack.config查找loader路径
+###将源码下载到自己的项目目录下，比如下载到loader文件夹，修改webpack.config查找loader路径
 resolveLoader: {
   modules: ['node_modules','loaders']
 },
